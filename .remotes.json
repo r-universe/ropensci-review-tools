@@ -12,6 +12,12 @@
     "from": "pkgcheck"
   },
   {
+    "package": "cloc",
+    "url": "https://github.com/hrbrmstr/cloc",
+    "via": ["pkgstats"],
+    "from": "pkgstats"
+  },
+  {
     "package": "pkgstats",
     "url": "https://github.com/mpadge/pkgstats",
     "via": ["pkgcheck"],

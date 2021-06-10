@@ -1,0 +1,17 @@
+[
+  {
+    "package": "autotest"
+  },
+  {
+    "package": "pkgcheck"
+  },
+  {
+    "package": "pkgstats"
+  },
+  {
+    "package": "roreviewapi"
+  },
+  {
+    "package": "srr"
+  }
+]

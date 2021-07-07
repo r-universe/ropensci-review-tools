@@ -6,18 +6,6 @@
     "from": "pkgcheck"
   },
   {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["roreviewapi", "pkgcheck", "pkgstats"],
-    "from": "roreviewapi"
-  },
-  {
-    "package": "cloc",
-    "url": "https://github.com/hrbrmstr/cloc",
-    "via": ["roreviewapi", "pkgstats"],
-    "from": "roreviewapi"
-  },
-  {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["roreviewapi"],

@@ -28,8 +28,3 @@
 	url = https://github.com/ropensci-review-tools/srr
 	shallow = true
 	registered = true
-[submodule "cloc"]
-	path = cloc
-	url = https://github.com/hrbrmstr/cloc
-	shallow = true
-	registered = false

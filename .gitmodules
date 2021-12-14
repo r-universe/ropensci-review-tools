@@ -28,3 +28,8 @@
 	url = https://github.com/ropensci-review-tools/srr
 	shallow = true
 	registered = true
+[submodule "desc"]
+	path = desc
+	url = https://github.com/r-lib/desc
+	shallow = true
+	registered = false

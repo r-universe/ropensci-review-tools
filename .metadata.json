@@ -6,7 +6,8 @@
     "package": "pkgcheck"
   },
   {
-    "package": "pkgstats"
+    "package": "pkgstats",
+    "oncran": false
   },
   {
     "package": "roreviewapi"

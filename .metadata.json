@@ -7,7 +7,7 @@
   },
   {
     "package": "pkgstats",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "roreviewapi"

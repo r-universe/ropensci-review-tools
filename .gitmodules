@@ -33,8 +33,3 @@
 	url = https://github.com/r-lib/desc
 	shallow = true
 	registered = false
-[submodule "goodpractice"]
-	path = goodpractice
-	url = https://github.com/MangoTheCat/goodpractice
-	shallow = true
-	registered = false

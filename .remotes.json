@@ -1,11 +1,5 @@
 [
   {
-    "package": "desc",
-    "url": "https://github.com/r-lib/desc",
-    "via": ["autotest"],
-    "from": "autotest"
-  },
-  {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["roreviewapi"],

@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ropensci-review-tools/universe
+	url = https://github.com/ropensci-review-tools/ropensci-review-tools.r-universe.dev
 	branch = HEAD
 [submodule "autotest"]
 	path = autotest

@@ -5,6 +5,10 @@
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropensci-review-tools/autotest
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/mangothecat/goodpractice
+	registered = false
 [submodule "pkgcheck"]
 	path = pkgcheck
 	url = https://github.com/ropensci-review-tools/pkgcheck

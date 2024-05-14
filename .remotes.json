@@ -1,5 +1,11 @@
 [
   {
+    "package": "goodpractice",
+    "url": "https://github.com/mangothecat/goodpractice",
+    "via": ["pkgcheck"],
+    "from": "pkgcheck"
+  },
+  {
     "package": "pkgcheck",
     "url": "https://github.com/ropensci-review-tools/pkgcheck",
     "via": ["roreviewapi"],

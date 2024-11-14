@@ -26,6 +26,12 @@
   {
     "package": "pkgstats",
     "url": "https://github.com/ropensci-review-tools/pkgstats",
+    "via": ["repometrics"],
+    "from": "repometrics"
+  },
+  {
+    "package": "pkgstats",
+    "url": "https://github.com/ropensci-review-tools/pkgstats",
     "via": ["roreviewapi", "pkgcheck"],
     "from": "roreviewapi"
   },

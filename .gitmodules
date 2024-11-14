@@ -18,6 +18,9 @@
 [submodule "pkgstats"]
 	path = pkgstats
 	url = https://github.com/ropensci-review-tools/pkgstats
+[submodule "repometrics"]
+	path = repometrics
+	url = https://github.com/ropensci-review-tools/repometrics
 [submodule "roreviewapi"]
 	path = roreviewapi
 	url = https://github.com/ropensci-review-tools/roreviewapi

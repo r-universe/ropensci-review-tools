@@ -7,7 +7,7 @@
 	url = https://github.com/ropensci-review-tools/autotest
 [submodule "goodpractice"]
 	path = goodpractice
-	url = https://github.com/mangothecat/goodpractice
+	url = https://github.com/ropensci-review-tools/goodpractice
 	registered = false
 [submodule "pkgcheck"]
 	path = pkgcheck

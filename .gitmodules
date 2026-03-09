@@ -5,6 +5,21 @@
 [submodule "autotest"]
 	path = autotest
 	url = https://github.com/ropensci-review-tools/autotest
+[submodule "babeldown"]
+	path = babeldown
+	url = https://github.com/ropensci-review-tools/babeldown
+[submodule "babelquarto"]
+	path = babelquarto
+	url = https://github.com/ropensci-review-tools/autotest
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/ropensci-review-tools/dashboard
+[submodule "goodpractice"]
+	path = goodpractice
+	url = https://github.com/ropensci-review-tools/goodpractice
+[submodule "orgmetrics"]
+	path = orgmetrics
+	url = https://github.com/ropensci-review-tools/orgmetrics
 [submodule "pkgcheck"]
 	path = pkgcheck
 	url = https://github.com/ropensci-review-tools/pkgcheck

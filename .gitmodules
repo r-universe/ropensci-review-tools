@@ -35,6 +35,9 @@
 [submodule "roreviewapi"]
 	path = roreviewapi
 	url = https://github.com/ropensci-review-tools/roreviewapi
+[submodule "spaceout"]
+	path = spaceout
+	url = https://github.com/ropensci-review-tools/spaceout
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr

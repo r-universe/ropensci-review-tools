@@ -2,15 +2,12 @@
 	path = .registry
 	url = https://github.com/ropensci-review-tools/ropensci-review-tools.r-universe.dev
 	branch = HEAD
-[submodule "autotest"]
-	path = autotest
-	url = https://github.com/ropensci-review-tools/autotest
 [submodule "babeldown"]
 	path = babeldown
 	url = https://github.com/ropensci-review-tools/babeldown
 [submodule "babelquarto"]
 	path = babelquarto
-	url = https://github.com/ropensci-review-tools/autotest
+	url = https://github.com/ropensci-review-tools/babelquarto
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/ropensci-review-tools/dashboard
@@ -35,9 +32,6 @@
 [submodule "roreviewapi"]
 	path = roreviewapi
 	url = https://github.com/ropensci-review-tools/roreviewapi
-[submodule "spaceout"]
-	path = spaceout
-	url = https://github.com/ropensci-review-tools/spaceout
 [submodule "srr"]
 	path = srr
 	url = https://github.com/ropensci-review-tools/srr
